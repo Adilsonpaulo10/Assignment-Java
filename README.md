@@ -3,3 +3,5 @@ My repository using java
 git clone 
 https://github.com/Adilsonpaulo10
 /Assignment-java.git
+
+cd JavaOOPProject
